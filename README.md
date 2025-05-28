@@ -43,7 +43,7 @@
 ---
 
 ## ⚡ Fun Facts
-- 🎵 I enjoy Bollywood and Hollywood music
+- 💫 I enjoy Writing poems and on technical subjects
 - ❤️ Passionate about tech, ambitious about life
 
 ---
