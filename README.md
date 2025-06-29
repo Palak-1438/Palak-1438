@@ -7,7 +7,7 @@
 ## 🧠 About Me
 - 🎓 I’m currently pursuing **BTech in Computer Science**
 - 🔭 I’m working on building **innovative full-stack projects** with real-world impact
-- 🌱 Currently learning: `React`, `Node.js`, `Next.js`, `MySQL`, and advanced **competitive programming**
+- 🌱 Currently learning: `React`, `Node.js`, `Next.js`, `MySQL`,`Python` and advanced **competitive programming**
 - 💬 Ask me about anything related to `C++`, `Java`, `MySQL`, `Data Structures`, and `Web Development`
 - 📈 Long-term Goal: Become a **world-class software engineer** and build a successful **tech startup**
 
