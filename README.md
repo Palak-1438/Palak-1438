@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Palak Dusiya]!
+# 👋 Hi there, I'm Palak Dusiya!
 
 ### 🚀 Aspiring Software Engineer | 💻 BTech 2nd Year | 💡 Tech Enthusiast
 
